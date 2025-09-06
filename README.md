@@ -18,17 +18,12 @@ Nah just kidding I never had a job, but I **love** computers and I'm trying!
 Nope
 
 ## To recruiters!
-Please check my awesome repositories and here is a bunch of impressive things that I know a lot about
-
-### Very impressive stuff
+Please check my awesome repositories and here is a bunch of very impressive things that I know a lot about
 * The AMD64 instruction set, C and memory, Windows Internals specifically virtual memory and Rizin for reverse engeneering
-* The Go programming language(with the chi router, goose and cobra), I also am able to use any API wrapper such as the AWS SDK
-* Operating systems based on Linux such as Arch(and Artix), Debian, Void and Alpine Linux
-* Regular expressions with ed(the standard editor tramedark) and nvi, I've used vim a lot and now using helix
-* Lots of DevOps and server side stuff like Docker, experience with AWS and Terraform and generally hosting
+* The Go programming language(with the chi router, goose and cobra), am also to use any API wrapper such as the AWS SDK
+* Operating systems using the Linux kernel such as Arch(and Artix), Debian, Void and Alpine Linux
+* Regular expressions with ed(the standard editor tramedark) and nvi, I've used vim a lot and am now using helix
+* Lots of DevOps and server side meaning Docker, AWS and Terraform, secure hosting and CI/CD in general
 * Finally, everything that's ever been made in the universe, only this one though, so I guess I can't be Senior Cloud Architect whatever
   
-Thank you!
-
-> [!NOTE]
-> Currently studying for the AWS SAA
+Thank you everyone for being so nice and awesome!
