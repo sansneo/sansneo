@@ -21,17 +21,12 @@ Nope
 Please check my awesome repositories and here is a bunch of impressive things that I know a lot about
 
 ### Very impressive stuff
-* The AMD64 instruction set
-* Go programming with the Chi router, Goose, also Cobra CLI
-* Lua, the big abstractions embeddable object oriented runtime language
-* GNU/Linux, specifically Arch(and Artix), Debian and Void 
-* Ed(the standard editor trademark) and that weird modal editor using ergonomic keybindings people like I think it's called NeoVim?
-* Docker and Kubernetes, also DevOps, yeah I should put it here probably that's a big word
-* AWS and Terraform
-* Typst which is a modern typesetting system that doesn't make me want to cry
-* Rizin aaaaand ehm, C, memory and C yes, stack heap, virtual memory, pthreads and static analysis 
-* Finally, everything that's ever been made in the universe, only this one
-  though, so I guess I can't be Senior Cloud Architect whatever
+* The AMD64 instruction set, C and memory, Windows Internals specifically virtual memory and Rizin for reverse engeneering
+* The Go programming language(with the chi router, goose and cobra), I also am able to use any API wrapper such as the AWS SDK
+* Operating systems based on Linux such as Arch(and Artix), Debian, Void and Alpine Linux
+* Regular expressions with ed(the standard editor tramedark) and nvi, I've used vim a lot and now using helix
+* Lots of DevOps and server side stuff like Docker, experience with AWS and Terraform and generally hosting
+* Finally, everything that's ever been made in the universe, only this one though, so I guess I can't be Senior Cloud Architect whatever
   
 Thank you!
 
