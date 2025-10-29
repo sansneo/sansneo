@@ -1,0 +1,14 @@
+*.db
+*.dll
+*.exe
+*.log
+*.o
+*.out
+*.so
+*.swp
+*.test
+.DS_Store
+.env*
+.idea/
+.vscode/
+tags*
