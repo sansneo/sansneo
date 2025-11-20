@@ -1,3 +1,2 @@
-# SansNEO
 I love calisthenics, computers and music!  
 Gosh, such a nerd...
